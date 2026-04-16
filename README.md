@@ -9,6 +9,7 @@
    The objective of this project is to analyze Google Play Store app data to uncover insights about app performance, user preferences, and factors influencing ratings, downloads, and revenue.
 
 **Tools Used**
+
    Python
    Data Cleaning
    Exploratory Data Analysis (EDA)
